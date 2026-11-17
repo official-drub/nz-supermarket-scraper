@@ -19,7 +19,10 @@ Status: work in progress. The happy path (BUILD->SCRAPE->PARSE->DB) has been run
 
 
 How it works:
-
+![how it works](how_it_works.png)
+1. Scraping: each scraper go through its list/slice of stores and catagories and dumps the raw API responses to disk as `page_X.json`.
+2. Parsing: (per franchise) parsers stream those JSON files and yield flat product dicts (also prices are converted to integer cents, not short because there are expenive items in supermarkets).
+3. Write To DB: `parser_to_db.py` batches the rows and upserts them into Postgres. A row is updated when a value has actually changed this ensures less useless writes.
 
 ## Barcodes are the common key:
 WW returns a real barcode for each product. However the foodstuffs stores only expose an internal sku (e.g 5269559-EA-000,9420027623036)
