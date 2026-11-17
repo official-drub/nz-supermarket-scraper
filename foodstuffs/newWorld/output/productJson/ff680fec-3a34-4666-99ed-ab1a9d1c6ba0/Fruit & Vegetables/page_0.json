@@ -1,0 +1,3205 @@
+{
+    "tobaccoProducts": false,
+    "products": [
+        {
+            "productId": "5040093-EA-000",
+            "name": "NZ Strawberries",
+            "displayName": "250g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 449,
+                "promoId": "130495744",
+                "comparativePrice": {
+                    "pricePerUnit": 1796,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495744",
+                    "rewardValue": 449,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 1796,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Berries, Grapes & Cherries"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 1
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5007770-EA-000",
+            "brand": "Dole",
+            "name": "Bobby Bananas Bunch",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Philippines",
+            "singlePrice": {
+                "price": 379,
+                "promoId": "130495740"
+            },
+            "promotions": [
+                {
+                    "promoId": "130495740",
+                    "rewardValue": 379,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Bananas"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 2
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046503-EA-000",
+            "name": "Red Capsicum",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199,
+                "promoId": "130495749"
+            },
+            "promotions": [
+                {
+                    "promoId": "130495749",
+                    "rewardValue": 199,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 3
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040543-EA-000",
+            "brand": "Beekist",
+            "name": "Angel Naturally Sweet Tomatoes",
+            "displayName": "200g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 299,
+                "promoId": "130495756",
+                "comparativePrice": {
+                    "pricePerUnit": 1495,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495756",
+                    "rewardValue": 299,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 1495,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 4
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046504-EA-000",
+            "name": "Yellow Capsicum",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199,
+                "promoId": "130495751"
+            },
+            "promotions": [
+                {
+                    "promoId": "130495751",
+                    "rewardValue": 199,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 5
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046505-EA-000",
+            "name": "Green Capsicum",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199,
+                "promoId": "130495750"
+            },
+            "promotions": [
+                {
+                    "promoId": "130495750",
+                    "rewardValue": 199,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 6
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5238474-EA-000",
+            "brand": "Pams",
+            "name": "Asparagus Spears",
+            "displayName": "1pk",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Grown in New Zealand",
+            "singlePrice": {
+                "price": 349
+            },
+            "promotions": [
+                {
+                    "promoId": "130495753",
+                    "rewardValue": 600,
+                    "decal": "3000",
+                    "sapType": "LAYERED",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 2,
+                    "multiProducts": true,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 300,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "ea",
+                        "measureDescription": "ea"
+                    }
+                }
+            ],
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                },
+                {
+                    "itemCode": "00020007",
+                    "itemDescription": "Dairy Free"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Beans, Corn & Asparagus"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 7
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5219645-EA-000",
+            "brand": "Pams",
+            "name": "Ranch Slaw With Dressing",
+            "displayName": "500g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": false,
+            "singlePrice": {
+                "price": 399,
+                "promoId": "130495755",
+                "comparativePrice": {
+                    "pricePerUnit": 798,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495755",
+                    "rewardValue": 399,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 798,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Slaw & Salad Kits"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Slaw & Salad Kits"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 8
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040814-EA-000",
+            "name": "King Sweeties Capsicums",
+            "displayName": "2pk",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 499,
+                "promoId": "130495752",
+                "comparativePrice": {
+                    "pricePerUnit": 250,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "ea",
+                    "measureDescription": "ea"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495752",
+                    "rewardValue": 499,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 250,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "ea",
+                        "measureDescription": "ea"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 9
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5047091-EA-000",
+            "name": "Swiss Brown Mushrooms",
+            "displayName": "200g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 349,
+                "promoId": "130495746",
+                "comparativePrice": {
+                    "pricePerUnit": 1745,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495746",
+                    "rewardValue": 349,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 1745,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Mushrooms"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 10
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5321772-EA-000",
+            "brand": "Pams",
+            "name": "Everyday Slaw",
+            "displayName": "500g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 399,
+                "promoId": "130495754",
+                "comparativePrice": {
+                    "pricePerUnit": 798,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495754",
+                    "rewardValue": 399,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 798,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Slaw & Salad Kits"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Slaw & Salad Kits"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 11
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5294812-EA-000",
+            "brand": "Meadow Mushrooms",
+            "name": "White Button Mushrooms",
+            "displayName": "200g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 349,
+                "promoId": "130495745",
+                "comparativePrice": {
+                    "pricePerUnit": 1745,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130495745",
+                    "rewardValue": 349,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 1745,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Mushrooms"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 12
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046542-KGM-000",
+            "name": "Bananas",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Ecuador",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 190,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 389,
+                "comparativePrice": {
+                    "pricePerUnit": 389,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Bananas"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 13
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5028110-EA-000",
+            "name": "Avocado",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Avocado"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 14
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039956-EA-000",
+            "name": "Broccoli",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Broccoli, Cabbage & Cauliflower"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 15
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5028889-EA-000",
+            "name": "Telegraph Cucumber",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 229
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 16
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039965-KGM-000",
+            "name": "Carrots",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 150,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 249,
+                "comparativePrice": {
+                    "pricePerUnit": 249,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Carrots & Root Vegetables"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 17
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5045856-KGM-000",
+            "name": "Brown Onions",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 180,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 399,
+                "comparativePrice": {
+                    "pricePerUnit": 399,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Onions, Leeks & Shallots"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 18
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039995-KGM-000",
+            "name": "Mandarins",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 110,
+                "minOrderQuantity": 150,
+                "stepSize": 50,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 639,
+                "comparativePrice": {
+                    "pricePerUnit": 639,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Oranges & Citrus Fruit"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 19
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5045849-KGM-000",
+            "name": "White Washed Potatoes",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 180,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 479,
+                "comparativePrice": {
+                    "pricePerUnit": 479,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Potato & Kumara"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 20
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040098-KGM-000",
+            "name": "Loose Red Tomatoes",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 140,
+                "minOrderQuantity": 150,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 449,
+                "comparativePrice": {
+                    "pricePerUnit": 449,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 21
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5045841-KGM-000",
+            "name": "Yellow Agria Potatoes",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 200,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 540,
+                "comparativePrice": {
+                    "pricePerUnit": 540,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Potato & Kumara"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 22
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040464-EA-000",
+            "brand": "Pams",
+            "name": "Baby Spinach",
+            "displayName": "120g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 419,
+                "comparativePrice": {
+                    "pricePerUnit": 3492,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 23
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046525-KGM-000",
+            "name": "Royal Gala Apples",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 160,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 589,
+                "comparativePrice": {
+                    "pricePerUnit": 589,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Apples & Pears"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 24
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040011-KGM-000",
+            "name": "Orange Kumara",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 360,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 699,
+                "comparativePrice": {
+                    "pricePerUnit": 699,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Potato & Kumara"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 25
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039977-KGM-000",
+            "name": "Gold Kiwifruit",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 140,
+                "minOrderQuantity": 100,
+                "stepSize": 50,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 1249,
+                "comparativePrice": {
+                    "pricePerUnit": 1249,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Kiwifruit & Feijoa"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 26
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046917-KGM-000",
+            "name": "Imported Mandarins",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Australia",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 110,
+                "minOrderQuantity": 150,
+                "stepSize": 50,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 549,
+                "comparativePrice": {
+                    "pricePerUnit": 549,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Oranges & Citrus Fruit"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 27
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5237500-KGM-000",
+            "name": "Red Kumara",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 350,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 699,
+                "comparativePrice": {
+                    "pricePerUnit": 699,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Potato & Kumara"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 28
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046549-KGM-000",
+            "name": "Navel Oranges NZ",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 240,
+                "minOrderQuantity": 250,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 529,
+                "comparativePrice": {
+                    "pricePerUnit": 529,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Oranges & Citrus Fruit"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 29
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039985-EA-000",
+            "name": "Leeks",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 249
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Onions, Leeks & Shallots"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 30
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046412-EA-000",
+            "brand": "Campari",
+            "name": "Vine Tomatoes",
+            "displayName": "300g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 379,
+                "comparativePrice": {
+                    "pricePerUnit": 1263,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 31
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046517-EA-000",
+            "name": "Green Cabbage Half",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 229
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Broccoli, Cabbage & Cauliflower"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 32
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046611-KGM-000",
+            "name": "Navel Oranges Imported",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Australia",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 230,
+                "minOrderQuantity": 250,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 499,
+                "comparativePrice": {
+                    "pricePerUnit": 499,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Oranges & Citrus Fruit"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 33
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040009-EA-000",
+            "name": "Spring Onions",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 199
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Onions, Leeks & Shallots"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 34
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040099-KGM-000",
+            "name": "Red Truss Tomatoes",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 140,
+                "minOrderQuantity": 150,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 299,
+                "promoId": "130551754",
+                "comparativePrice": {
+                    "pricePerUnit": 299,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "promotions": [
+                {
+                    "promoId": "130551754",
+                    "rewardValue": 299,
+                    "decal": "3000",
+                    "sapType": "BASE",
+                    "rewardType": "NEW_PRICE",
+                    "threshold": 1,
+                    "limit": 0,
+                    "multiProducts": false,
+                    "cardDependencyFlag": false,
+                    "bestPromotion": true,
+                    "comparativePrice": {
+                        "pricePerUnit": 299,
+                        "unitQuantity": 1,
+                        "unitQuantityUom": "kg",
+                        "measureDescription": "1kg"
+                    }
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 35
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039966-EA-000",
+            "name": "Cauliflower",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 289
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Broccoli, Cabbage & Cauliflower"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 36
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046462-KGM-000",
+            "name": "Ambrosia Apples",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 180,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 649,
+                "comparativePrice": {
+                    "pricePerUnit": 649,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Apples & Pears"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 37
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046440-EA-000",
+            "name": "Fresh Cut Lettuce",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 229
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 38
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039976-KGM-000",
+            "name": "Green Kiwifruit",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Italy",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 120,
+                "minOrderQuantity": 100,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 999,
+                "comparativePrice": {
+                    "pricePerUnit": 999,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Kiwifruit & Feijoa"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 39
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5264186-EA-000",
+            "brand": "Pams",
+            "name": "Washed Carrots",
+            "displayName": "1.5kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 529,
+                "comparativePrice": {
+                    "pricePerUnit": 353,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020007",
+                    "itemDescription": "Dairy Free"
+                },
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Carrots & Root Vegetables"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Cut & Prepared Vegetables"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 40
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039973-EA-000",
+            "brand": "Pams Fresh",
+            "name": "Cherry Tomatoes",
+            "displayName": "250g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 299,
+                "comparativePrice": {
+                    "pricePerUnit": 1196,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020007",
+                    "itemDescription": "Dairy Free"
+                },
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Tomatoes, Cucumber & Capsicum"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 41
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046507-EA-000",
+            "name": "Cauliflower Half",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 189
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Broccoli, Cabbage & Cauliflower"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 42
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040462-EA-000",
+            "brand": "Pams",
+            "name": "Baby Leaf Lettuce",
+            "displayName": "100g",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 399,
+                "comparativePrice": {
+                    "pricePerUnit": 3990,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas BBQ Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 43
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5039945-KGM-000",
+            "name": "Granny Smith Apples",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 190,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 499,
+                "comparativePrice": {
+                    "pricePerUnit": 499,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Apples & Pears"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 44
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5264187-EA-000",
+            "brand": "Pams",
+            "name": "Brown Onions",
+            "displayName": "1.5kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 499,
+                "comparativePrice": {
+                    "pricePerUnit": 333,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "facets": [
+                {
+                    "itemCode": "00020007",
+                    "itemDescription": "Dairy Free"
+                },
+                {
+                    "itemCode": "00020012",
+                    "itemDescription": "Non-GMO"
+                }
+            ],
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Onions, Leeks & Shallots"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 45
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046566-KGM-000",
+            "name": "Seedless Green Grapes",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "WEIGHT",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of USA",
+            "variableWeight": {
+                "minOrderQuantity": 100,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 1599,
+                "comparativePrice": {
+                    "pricePerUnit": 1599,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Berries, Grapes & Cherries"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Fruit & Vegetables",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 46
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5045864-KGM-000",
+            "name": "Rose Apples",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 170,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 599,
+                "comparativePrice": {
+                    "pricePerUnit": 599,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Apples & Pears"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 47
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5046509-EA-000",
+            "name": "Celery Half",
+            "displayName": "ea",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "UNITS",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "singlePrice": {
+                "price": 239
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Cut & Prepared Vegetables"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Carrots & Root Vegetables"
+                },
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fresh Salad & Herbs",
+                    "level2": "Lettuce, Spinach & Salad Greens"
+                },
+                {
+                    "level0": "Snacks, Treats & Easy Meals",
+                    "level1": "Ready to Eat",
+                    "level2": "Fresh Cut Fruit & Vegetables"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 48
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5223140-KGM-000",
+            "name": "Peeled Red Onions",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of New Zealand",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 190,
+                "minOrderQuantity": 150,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 699,
+                "comparativePrice": {
+                    "pricePerUnit": 699,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Vegetables",
+                    "level2": "Onions, Leeks & Shallots"
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 49
+            },
+            "boughtBefore": false
+        },
+        {
+            "productId": "5040014-KGM-000",
+            "name": "Packham Pears",
+            "displayName": "kg",
+            "availability": [
+                "IN_STORE",
+                "ONLINE"
+            ],
+            "saleType": "BOTH",
+            "restrictedFlag": false,
+            "liquorFlag": false,
+            "tobaccoFlag": false,
+            "originRegulated": true,
+            "originStatement": "Product of Australia",
+            "variableWeight": {
+                "unitOfMeasure": "g",
+                "averageWeight": 200,
+                "minOrderQuantity": 200,
+                "stepSize": 100,
+                "stepUnitOfMeasure": "g"
+            },
+            "singlePrice": {
+                "price": 669,
+                "comparativePrice": {
+                    "pricePerUnit": 669,
+                    "unitQuantity": 1,
+                    "unitQuantityUom": "kg",
+                    "measureDescription": "1kg"
+                }
+            },
+            "categoryTrees": [
+                {
+                    "level0": "Fruit & Vegetables",
+                    "level1": "Fruit",
+                    "level2": "Apples & Pears"
+                },
+                {
+                    "level0": "Christmas",
+                    "level1": "Christmas",
+                    "level2": "Christmas Breakfast Essentials",
+                    "webContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    },
+                    "appContent": {
+                        "badgeSmallUrl": "",
+                        "badgeMediumUrl": "",
+                        "badgeLargeUrl": "",
+                        "title": "Christmas",
+                        "subTitle": "Shop Christmas",
+                        "campaignUrl": "https://www.newworld.co.nz/shop/category/christmas/christmas?pg=1"
+                    }
+                }
+            ],
+            "cateredFlag": false,
+            "algoliaAnalytics": {
+                "searchQueryID": "8552c36751f1551062f024a2727f5392",
+                "searchPosition": 50
+            },
+            "boughtBefore": false
+        }
+    ],
+    "algoliaSearchResult": {
+        "facets": {
+            "brand": {
+                "Pams": 45,
+                "Superb Herb": 10,
+                "Pams Fresh": 7,
+                "Healthy n Fresh": 4,
+                "LeaderBrand": 4,
+                "Taylor Farms": 4,
+                "Yummy Fruit": 4,
+                "Blue Royal": 2,
+                "Living Foods": 2,
+                "Meadow Mushrooms": 2,
+                "Wilcox": 2,
+                "Beekist": 1,
+                "Campari": 1,
+                "Dole": 1,
+                "Kashish": 1,
+                "Kowhai Bush Farms": 1,
+                "Pams Superfoods": 1,
+                "Rockit Apple": 1,
+                "Spring Life": 1,
+                "Sunburst": 1,
+                "T&G": 1
+            },
+            "tobacco": {
+                "false": 222
+            },
+            "category1NI": {
+                "Vegetables": 134,
+                "Fresh Salad & Herbs": 64,
+                "Fruit": 60,
+                "Christmas": 56,
+                "Ready to Eat": 2,
+                "Canned Foods & Packets": 1
+            },
+            "onPromotion": {
+                "1fc7bc09-1d0c-4a88-a9f4-5f1536d797dd": 20,
+                "2d939bb7-ae26-4cc7-b930-d10e6a4de8a3": 19,
+                "30a90cf9-3547-46d1-b8b1-cc9ff4af5f88": 19,
+                "ff680fec-3a34-4666-99ed-ab1a9d1c6ba0": 18,
+                "6b9af900-3f25-4fdb-8418-b43a596aee48": 17,
+                "b012c209-9dfe-48c2-940c-acf73afebed4": 17,
+                "0d045690-bd75-42d8-a7bc-ee44aa57fc61": 16,
+                "4ff026b8-a60d-4383-8f0c-6c85f5623afa": 16,
+                "c8998066-d39b-401c-aa6b-d6d18f8d122f": 16,
+                "04de234b-9f3e-4388-9662-7a4c8d7180c8": 15,
+                "0637c08c-ac36-4940-8582-38e44a4812fa": 15,
+                "07828d6b-4c90-430e-8ea9-37c671d375e9": 15,
+                "1fa53d02-1ed5-4dd5-b0ac-fd280425c19a": 15,
+                "24be83cd-b9f2-47f0-8895-82867e3d4f08": 15,
+                "3a5fd4b8-6ea0-4a6c-aeec-5af83e093322": 15,
+                "3e66e1a7-bf5c-4f39-9638-c3f57e5c3889": 15,
+                "491d26a4-78fd-4c6e-85e9-5b67fd97e2cc": 15,
+                "4f76214d-40a5-4c71-a94f-81d45f3f0a59": 15,
+                "517424bd-8840-49e7-8206-58f4da24b1d7": 15,
+                "55d4fe03-e82e-44a8-8324-57f3afcf16ba": 15,
+                "5dde0d09-05ca-4b78-ab83-00e47233cf55": 15,
+                "5eb8d7a2-c5e4-4046-a17e-be2806626fd7": 15,
+                "63190876-2bd4-4562-ae34-bb5caebab4f9": 15,
+                "692b45a2-2ab9-49de-adc3-e4a0ddd661a5": 15,
+                "810832cb-2748-4e87-bc17-929eab5a5a61": 15,
+                "bbe5aa58-69dd-4b29-abe6-58670234b3b7": 15,
+                "c032987b-0387-4fc0-bb44-ce7510e35335": 15,
+                "c387ac97-5e0a-43ed-9c93-f1edccda298d": 15,
+                "c4d78c33-1f9c-4039-8cd5-82ddb43fbe16": 15,
+                "c78b7034-7f10-480a-b502-2e5c4066a790": 15,
+                "d4f24174-f962-4db1-9024-75495bb2dfbb": 15,
+                "e42fdd7c-6a4e-48d5-964c-5654fd36992b": 15,
+                "02874261-edfe-4daa-886c-09429e2d06d7": 14,
+                "1257ed9a-1790-4ad0-beae-383397043e35": 14,
+                "36fb31df-6b41-4a10-ac9a-db831f4f5f47": 14,
+                "38b074c4-0e5a-4bd5-b743-d30f28d94982": 14,
+                "3ca6692b-e2a3-4d51-95b6-d061b9541e6c": 14,
+                "412c5dcf-142c-4133-b766-7bd21c30ae01": 14,
+                "420eff4b-5266-4667-8943-a21caf4b1b03": 14,
+                "5080816d-825d-4a6e-9835-a93d986b1ee0": 14,
+                "5255b27a-b224-4f58-a424-144e81ecf244": 14,
+                "5b8f8e3b-e1a0-4a11-b16b-9cfe782c124e": 14,
+                "64c24e04-516d-40b3-958c-96b15797684a": 14,
+                "6739e54f-ffab-47b9-9fe1-899d91a7ad78": 14,
+                "686c8e35-aa87-40e9-b46e-8ffbad4713aa": 14,
+                "745d0bda-4b4f-4e4c-ab1f-6d77512f92f4": 14,
+                "773ad0a0-024e-46c5-a94b-df1cf86d25cc": 14,
+                "79b03f4b-5e2b-437c-83f8-54d9dace4999": 14,
+                "96c43bec-8c0d-4752-b417-266546fddda1": 14,
+                "997b5318-0d47-4eac-b4ec-bbbd9feb8ae3": 14,
+                "a799b706-07b8-4825-9524-95b03c9e0b14": 14,
+                "adcd3dee-0ead-4b84-944a-809b95e0e36b": 14,
+                "b2f012df-3c55-4bca-98ba-e30c3cd3aa70": 14,
+                "b7fe0c9e-24e9-46f2-a59a-95dce1725b06": 14,
+                "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf": 14,
+                "c3a42e9d-ac58-4abf-be43-17920c720540": 14,
+                "c570bb70-c783-4692-aee1-6a1b235f9476": 14,
+                "d48eba45-0c1c-4f5d-b836-0ed54b45c99c": 14,
+                "d999418f-c2ca-4748-b56b-15ee82c6e85e": 14,
+                "f145f120-ba19-4524-9fc5-e8caf516e209": 14,
+                "f54433e6-5c6c-41b9-a5e2-d7502f454da8": 14,
+                "f5da324f-f415-4c8d-a360-ea8d2c74d49b": 14,
+                "f95243ac-bfc9-483a-b10a-b681f4fc4ba2": 14,
+                "0870db3b-2e91-43b7-89aa-ce3c031b3856": 13,
+                "177c82e0-7343-434c-8b98-9c20e72561c2": 13,
+                "1926eed9-3d44-4339-9f6e-23c96becab07": 13,
+                "1ee51b21-c2c8-42c4-b01e-8ef081738e23": 13,
+                "4664daab-1897-4e69-9117-067b4afd41bb": 13,
+                "471d0657-713c-430a-816f-2ca8448e6b35": 13,
+                "513fc849-3dbe-4333-a148-4edee5baef67": 13,
+                "514b1db1-fe88-4e79-a6dd-f1e0d4d4c01f": 13,
+                "51ee2a79-4693-410c-9287-66940847736d": 13,
+                "524d7a29-550c-4d14-8f89-ec334a60cd6d": 13,
+                "55231137-b7be-48f2-b8a0-6aaed59f4540": 13,
+                "59b56cc6-645c-4fa8-836b-c667662d7ec4": 13,
+                "6defcd27-e944-45ad-982f-768ab3b4c2ac": 13,
+                "7daec5c2-789a-4577-ba1f-39e730acdd27": 13,
+                "871ff39f-99b5-4030-b035-b2dab7225082": 13,
+                "89ba1656-0ad7-4af0-8694-08bf335e99b9": 13,
+                "99798e55-18bb-4f16-9f3e-425c555111a7": 13,
+                "ad3ea12c-d9c1-4640-908c-feb9d3c79c11": 13,
+                "be37802e-1355-466e-9a1b-1ede5a099705": 13,
+                "c3f80f70-0ad3-409a-b60a-9eac6ad38681": 13,
+                "cb3f240a-a157-490c-9e80-f537d202ef49": 13,
+                "dbdfdd2a-55f7-4870-9b51-979286323647": 13,
+                "de5595ab-1d28-46c6-9e9a-b1c3db1af827": 13,
+                "ebcc2edb-73bd-4d8e-b6f3-528849677b62": 13,
+                "edc986dd-a28c-4fbe-899d-5680d51f584d": 13,
+                "ef977d89-f3d8-4e8b-8a48-b895ded38646": 13,
+                "f0c21eab-1919-4cba-ac00-5b795947cdcb": 13,
+                "ff528de5-233a-4cf6-a3a9-bc140565367e": 13,
+                "0f82d3fe-acd0-4e98-b3e7-fbabbf8b8ef5": 12,
+                "2fe74bf7-5123-4faa-8fcb-97db954a714d": 12,
+                "4db31fed-1e21-4884-82a5-cfaa178af8ac": 12,
+                "60928d93-06fa-4d8f-92a6-8c359e7e846d": 12,
+                "81f807e9-1879-484c-b27e-ded56245c6a4": 12,
+                "84c3115a-fe09-4bc3-b373-f43cc9e9627c": 12,
+                "8d2ceac4-9520-4b8e-82bb-7867873580da": 12,
+                "91e4dddd-aed7-4ccc-ad0b-dfe25805a495": 12,
+                "aed206ae-c0ba-4c81-b7e9-7b420bc3616c": 12
+            },
+            "productFacets": {
+                "Non-GMO": 62,
+                "Dairy Free": 29
+            }
+        }
+    },
+    "totalHits": 222,
+    "page": 0,
+    "totalPages": 5,
+    "hitsPerPage": 50
+}

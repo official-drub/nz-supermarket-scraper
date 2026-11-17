@@ -1,0 +1,46 @@
+[INFO] => 2026-11-11 20:11:59,577 => FoodStuffsScraper_0 => LOGGER INITAIALISED OK
+[INFO] => 2026-11-11 20:11:59,577 => FoodStuffsScraper_0 => machine 0/4 starting
+[INFO] => 2026-11-11 20:12:17,578 => FoodStuffsScraper_0 => start 0, end 38
+[INFO] => 2026-11-11 20:12:17,578 => FoodStuffsScraper_0 => scraping store: ff680fec-3a34-4666-99ed-ab1a9d1c6ba0
+[INFO] => 2026-11-11 20:12:17,904 => FoodStuffsScraper_0 => sid: ff680fec-3a34-4666-99ed-ab1a9d1c6ba0, catagory: Fruit & Vegetables, page: 0
+[INFO] => 2026-11-11 20:12:18,259 => FoodStuffsScraper_0 => added to mapping: for 5045856-KGM-000==4093
+[INFO] => 2026-11-11 20:12:18,348 => FoodStuffsScraper_0 => added to mapping: for 5028110-EA-000==4224
+[INFO] => 2026-11-11 20:12:18,467 => FoodStuffsScraper_0 => added to mapping: for 5040099-KGM-000==4664
+[INFO] => 2026-11-11 20:12:18,555 => FoodStuffsScraper_0 => added to mapping: for 5046504-EA-000==205074000004
+[INFO] => 2026-11-11 20:12:18,641 => FoodStuffsScraper_0 => added to mapping: for 5040464-EA-000==9415077053490
+[INFO] => 2026-11-11 20:12:18,724 => FoodStuffsScraper_0 => added to mapping: for 5046917-KGM-000==4450
+[INFO] => 2026-11-11 20:12:18,859 => FoodStuffsScraper_0 => added to mapping: for 5321772-EA-000==9415077378258
+[INFO] => 2026-11-11 20:12:18,942 => FoodStuffsScraper_0 => added to mapping: for 5040098-KGM-000==4064
+[INFO] => 2026-11-11 20:12:19,042 => FoodStuffsScraper_0 => added to mapping: for 5045841-KGM-000==4727
+[INFO] => 2026-11-11 20:12:19,204 => FoodStuffsScraper_0 => added to mapping: for 5046542-KGM-000==4011
+[INFO] => 2026-11-11 20:12:19,293 => FoodStuffsScraper_0 => added to mapping: for 5046440-EA-000==4061
+[INFO] => 2026-11-11 20:12:19,381 => FoodStuffsScraper_0 => added to mapping: for 5039976-KGM-000==4030
+[INFO] => 2026-11-11 20:12:19,473 => FoodStuffsScraper_0 => added to mapping: for 5046503-EA-000==4688
+[INFO] => 2026-11-11 20:12:19,565 => FoodStuffsScraper_0 => added to mapping: for 5047091-EA-000==9420015443332
+[INFO] => 2026-11-11 20:12:19,659 => FoodStuffsScraper_0 => added to mapping: for 5040814-EA-000==9420015447354
+[INFO] => 2026-11-11 20:12:19,743 => FoodStuffsScraper_0 => added to mapping: for 5046509-EA-000==4580
+[INFO] => 2026-11-11 20:12:19,829 => FoodStuffsScraper_0 => added to mapping: for 5040543-EA-000==9414582379170
+[INFO] => 2026-11-11 20:12:19,907 => FoodStuffsScraper_0 => added to mapping: for 5046566-KGM-000==4022
+[INFO] => 2026-11-11 20:12:20,074 => FoodStuffsScraper_0 => added to mapping: for 5046525-KGM-000==4173
+[INFO] => 2026-11-11 20:12:20,161 => FoodStuffsScraper_0 => added to mapping: for 5039985-EA-000==4629
+[INFO] => 2026-11-11 20:12:20,242 => FoodStuffsScraper_0 => added to mapping: for 5045864-KGM-000==4122
+[INFO] => 2026-11-11 20:12:20,336 => FoodStuffsScraper_0 => added to mapping: for 5294812-EA-000==9420015306590
+[INFO] => 2026-11-11 20:12:20,424 => FoodStuffsScraper_0 => added to mapping: for 5040014-KGM-000==4421
+[INFO] => 2026-11-11 20:12:20,525 => FoodStuffsScraper_0 => added to mapping: for 5040093-EA-000==9420015310832
+[INFO] => 2026-11-11 20:12:20,607 => FoodStuffsScraper_0 => added to mapping: for 5039965-KGM-000==4562
+[INFO] => 2026-11-11 20:12:20,688 => FoodStuffsScraper_0 => added to mapping: for 5039966-EA-000==4079
+[INFO] => 2026-11-11 20:12:20,786 => FoodStuffsScraper_0 => added to mapping: for 5238474-EA-000==9415077143955
+[INFO] => 2026-11-11 20:12:20,891 => FoodStuffsScraper_0 => added to mapping: for 5046412-EA-000==9421900997541
+[INFO] => 2026-11-11 20:12:20,975 => FoodStuffsScraper_0 => added to mapping: for 5264187-EA-000==9415077135233
+[INFO] => 2026-11-11 20:12:21,057 => FoodStuffsScraper_0 => added to mapping: for 5046611-KGM-000==3107
+[INFO] => 2026-11-11 20:12:21,156 => FoodStuffsScraper_0 => added to mapping: for 5040011-KGM-000==205112000003
+[INFO] => 2026-11-11 20:12:21,241 => FoodStuffsScraper_0 => added to mapping: for 5045849-KGM-000==205649000002
+[INFO] => 2026-11-11 20:12:21,323 => FoodStuffsScraper_0 => added to mapping: for 5040462-EA-000==9415077413225
+[INFO] => 2026-11-11 20:12:21,438 => FoodStuffsScraper_0 => added to mapping: for 5046549-KGM-000==4012
+[INFO] => 2026-11-11 20:12:21,523 => FoodStuffsScraper_0 => added to mapping: for 5039973-EA-000==9415077083206
+[INFO] => 2026-11-11 20:12:21,604 => FoodStuffsScraper_0 => added to mapping: for 5039995-KGM-000==205669000006
+[INFO] => 2026-11-11 20:12:21,686 => FoodStuffsScraper_0 => added to mapping: for 5264186-EA-000==9415077135325
+[INFO] => 2026-11-11 20:12:21,775 => FoodStuffsScraper_0 => added to mapping: for 5040009-EA-000==9414226101884
+[INFO] => 2026-11-11 20:12:21,856 => FoodStuffsScraper_0 => added to mapping: for 5046462-KGM-000==205006000003
+[INFO] => 2026-11-11 20:12:21,939 => FoodStuffsScraper_0 => added to mapping: for 5039945-KGM-000==205408000007
+[INFO] => 2026-11-11 20:12:22,148 => FoodStuffsScraper_0 => added to mapping: for 5223140-KGM-000==3358
